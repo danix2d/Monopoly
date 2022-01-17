@@ -3,4 +3,4 @@
 
 Simple Monopoly prototype with 2 local players.
 
-![img](https://raw.githubusercontent.com/danix2d/Images/main/monopoly.png)
+![image](https://drive.google.com/uc?export=view&id=1IgWwQuKj85FBIofEe5gPWDtJq-3LSuNv)
